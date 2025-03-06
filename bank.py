@@ -119,4 +119,4 @@ class Loan:
 
     def restructure_loan(self, new_terms):
         pass
-fnsejfd
+        print("Hi")
