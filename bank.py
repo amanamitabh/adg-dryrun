@@ -9,7 +9,8 @@ class Bank:
         pass
 
     def get_account(self, account_number):
-        pass
+        return account
+        
 
     def list_accounts(self):
         pass
