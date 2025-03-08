@@ -13,7 +13,8 @@ class Bank:
         
 
     def list_accounts(self):
-        pass
+        for i in self.accounts:
+            print(i.account_number)
 
     def close_account(self, account_number):
         pass
